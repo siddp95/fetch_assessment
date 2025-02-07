@@ -1,2 +1,5 @@
 # Fetch Assessment
-Fetch take home assessment - Siddarth Puliyanda
+Siddarth Puliyanda
+
+This repository contains the Data Analyst take home assessment for Fetch.
+File name: fetch_assessment.ipynb
