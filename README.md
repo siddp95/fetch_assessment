@@ -1,6 +1,6 @@
 # Fetch Assessment
 Siddarth Puliyanda
 
-This repository contains the Data Analyst take home assessment for Fetch.
+This repository contains the take home assessment for the Senior Data Analyst, Beverage role at Fetch.
 
 File name: fetch_assessment.ipynb
